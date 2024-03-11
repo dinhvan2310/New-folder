@@ -63,7 +63,7 @@ Thời gian ước lượng cuối cùng (khi làm với 125% năng suất): `10
 
 
 ## 3. Những lưu ý khi ước lượng thời gian dự án
-- **Lưu ý 1**: Trước khi ước lượng thời gian cho công việc, nên xem lại BWS đã viết đủ rõ ràng, chi tiết chưa.
+- **Lưu ý 1**: Trước khi ước lượng thời gian cho công việc, nên xem lại WBS đã viết đủ rõ ràng, chi tiết chưa.
 - **Lưu ý 2**: Với các công việc gần giống nhau, ước lượng thời gian cũng gần giống nhau.
 - **Lưu ý 3**: Phân chia chi tiết công việc sẽ cho ước lượng chính xác hơn.
 - **Lưu ý 4**: Mỗi ước lượng chi tiết không nên quá 8 giờ.
@@ -81,7 +81,41 @@ dừng lại, tính toán thời gian để đạt tới mốc đó
 và ước lượng lại ngày tháng cho các mốc tiếp 
 theo nếu cần, dựa trên kinh nghiệm đã có
 
-## 4. Câu hỏi 
+## 4. Các bước khi làm ước lượng thời gian dự án
+1. Có được WBS chi tiết, rõ ràng. 
+
+    WBS là tài liệu cơ bản để ước lượng thời gian dự án. Nếu WBS chưa rõ ràng, chi tiết, thì ước lượng thời gian dự án sẽ không chính xác.
+2. Lập bảng ước lượng thời gian dự án.
+    
+    Bảng ước lượng thời gian dự án là một bảng gồm các công việc chi tiết cần làm được lấy ra từ WBS, và thời gian ước lượng cần thiết cho từng công việc.
+3. Lập danh sách những người cần trao đổi - những người có liên quan đến công việc.
+    
+    Những người cần trao đổi có thể là người thực hiện công việc, người quản lý dự án, người quản lý sản phẩm, người quản lý kỹ thuật, người quản lý chất lượng, người quản lý dự án, khách hàng,...
+4. Tiến hành trao đổi với từng người để tính toán thời gian ước lượng.
+    
+    Thời gian ước lượng cần thiết cho từng công việc được ước lượng dựa trên các kỹ thuật ước lượng thời gian dự án, có thể phối hợp nhiều phương pháp ước lượng.
+5. Họp chung với tất cả mọi người để trao đổi về thời gian ước lượng cũng như điều chỉnh lại nếu cần thiết.
+    
+    Khi đã có được thời gian ước lượng cần thiết cho từng công việc, cần phải họp chung với tất cả mọi người có liên quan để trao đổi về thời gian ước lượng.
+5. Ghi chép lại kết quả trao đổi và lấy chữ ký của mọi người có liên quan để tạo được sự cam kết.
+    
+    Kết quả trao đổi cần phải được ghi chép lại, và lấy chữ ký của mọi người có liên quan để có được một bản cam kết (về tâm lý) của những người sau này sẽ tham gia công việc.
+6. Phân phát biên bản trao đổi cho mọi người có liên quan để họ có thể tham khảo lại nếu cần thiết.
+    
+## 5. Những hậu quả khi ước lượng thời gian dự án không chính xác
+- **Hậu quả 1**: Dự án hoàn thành trễ hạn.
+    - Nếu thời gian ước lượng quá ít, dự án có thể bị đặt trong một kế hoạch không thực tế. Kết quả là dự án không thể hoàn thành đúng tiến độ đã cam kết, gây trễ hẹn
+- **Hậu quả 2**: Đánh mất niềm tin của khách hàng.
+- **Hậu quả 3**: Làm căng thẳng những người tham gia dự án.
+    -  Khi mà họ phải làm việc quá sức để cố gắng hoàn thành công việc theo thời gian ước lượng quá ít này.
+- **Hậu quả 4**: Làm ảnh hưởng đến chi phí lợi nhuận của dự án, thậm chí có thể làm dự án bị lỗi.
+    -  Nếu thời gian được ước lượng quá ngắn, nhóm dự án có thể phải sử dụng nhiều nguồn lực hơn để hoàn thành công việc, dẫn đến sự tăng chi phí không mong muốn. 
+    -  Hoặc nếu thời gian ước lượng quá dài, dự án có thể bị lãng phí nguồn lực, dẫn đến sự giảm lợi nhuận.
+
+
+
+
+## 5. Câu hỏi 
 
 1. Khi đang làm việc, nhân sự bị gián đoạn do điện thoại gọi, có người tìm,... nhân sự phải mất một ít thời gian mới lấy lại được trạng thái làm việc như lúc trước khi bị gián đoạn. Sự gián đoạn này làm mất thời gian cũng như năng xuất làm việc. Vậy có cách nào để ước lượng thời gian mất do gián đoạn này không?
 
@@ -114,3 +148,27 @@ theo nếu cần, dựa trên kinh nghiệm đã có
 8. Phối hợp nhiều phương pháp ước lượng thời gian dự án sẽ giúp ước lượng chính xác hơn không?
 
 > Vì mỗi phương pháp ước lượng thời gian dự án có những ưu điểm và nhược điểm riêng, do đó phối hợp nhiều phương pháp ước lượng thời gian dự án sẽ giúp ước lượng chính xác hơn. 
+
+9. Làm gì khi WBS chưa viết đủ rõ ràng, chi tiết?
+
+> Trước khi ước lượng thời gian, nên xem lại WBS đã viết đủ rõ ràng, chi tiết chưa. Nếu chưa, cần phải viết WBS đủ rõ ràng, chi tiết trước khi ước lượng thời gian dự án. Vì WBS là tài liệu cơ bản để ước lượng thời gian dự án. Nếu WBS chưa rõ ràng, chi tiết, thì ước lượng thời gian dự án sẽ không chính xác.
+
+10. Phương pháp sử dụng kỹ thuật ước lượng dựa theo lịch sử của các dự án tương tự đã hoàn thành trước đó thường không được xem là cách ước lượng chính thống. Vì sao?
+
+> Phương pháp sử dụng kỹ thuật ước lượng dựa theo lịch sử của các dự án tương tự đã hoàn thành trước đó thường không được xem là cách ước lượng chính thống vì nó có những hạn chế và không phù hợp với tất cả các dự án. Thường không phù hợp với các dự án mới, không có dữ liệu lịch sử.
+
+11. Khi ước lượng thời gian dự án, cần phải viết tài liệu. Tại sao?
+
+> Khi ước lượng thời gian dự án, cần phải viết tài liệu. Tài liệu này là cơ sở để trao đổi với mọi người, đồng thời cũng mang tính chất một bản cam kết (về tâm lý) của những người sau này sẽ tham gia công việc, đồng thời là cơ sở để những dự án sau có thể tham khảo.
+
+12. Phần lớn các dự án đều nhận được hạn thời gian từ khách hàng. Nhưng không phải lúc nào hạn thời gian này cũng phù hợp với thực tế. Nếu hạn thời gian từ khách hàng không phù hợp với thực tế, làm thế nào?
+
+> Thảo luận và giải thích
+
+> Đề xuất các phương án thay đổi, có thể gia tăng tài nguyên, giảm phạm vi dự án, thay đổi công nghệ,.. để có thể hoàn thành dự án theo hạn thời gian từ khách hàng.
+
+> Đánh giá lại dự án: đánh giá lại các rủi ro, cơ hội, chi phí, lợi nhuận,.. để xem xét xem có nên tiếp tục dự án không.
+
+
+
+
